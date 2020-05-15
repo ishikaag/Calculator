@@ -40,4 +40,9 @@ project.  They will, however, test _only_ `isinteger()` and
 tests against the calculator functionality of your project.
 
 
+## Author
+Ishika Agarwal (ia.ishikaagarwal@gmail.com)
+
+## License
+This project is licensed under the GNU General Public License - see the [LICENSE](https://github.com/ishikaag/Calculator/blob/master/LICENSE) file for details
 
